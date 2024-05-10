@@ -1,0 +1,12 @@
+:root{
+    --Red: hsl(0, 100%, 74%); 
+    --Red-Shadow: hsl(0, 100%, 74%, 0.50);
+    --Green: hsl(154, 59%, 51%);
+    --Green-Shadow: hsl(154, 59%, 51%, 0.60);
+    --Blue: hsl(248, 32%, 49%);
+    --Blue-Shadow: hsl(249, 32%, 49%, 0.50);
+    --Dark-Blue: hsl(249, 10%, 26%); 
+    --Grayish-Blue: hsl(246, 25%, 77%);
+    --White: #fff;
+    --White-shadow: #ffffff60;
+}
